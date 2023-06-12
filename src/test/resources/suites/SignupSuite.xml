@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TECHFORING User Signup Automation Suite">
+    <test name="User can successfully register">
+        <classes>
+            <class name="testrunner.SignupTestRunner"/>
+        </classes>
+    </test>
+</suite>
