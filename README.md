@@ -10,6 +10,9 @@
 
 **The test runner code can be extracted from this:**
 [TestRunner](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/tree/main/src/test/java/testrunner)</br>
+**The test cases are written following standard test case format in this excel file:**
+[Test cases](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/files/11725672/TechForing.xlsx) </br>
+
 ### Technology: </br>
 - Tool: Selenium Webdriver
 - IDE: Intellij IDEA
@@ -45,4 +48,4 @@ allure serve allure-results
 ![Allure 2](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/assets/94475321/44259d98-2866-4b4a-84fa-d9061127d806) </br>
 
 ![Allure 3](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/assets/94475321/8cfca6dc-c4c0-4ea0-a136-f41d3e989112) </br>
-- ## **Here is the overall walkthrough of the project:** ![Video](https://drive.google.com/file/d/1R3HN997KTtLWIZrOO3uIoPo_w-z-Z8Zi/view?usp=sharing) 
+- ## **Here is the overall walkthrough of the project:** ![Video](https://drive.google.com/file/d/1ZaGCHEmzEaIqmAojHIIuqRUzr444nanM/view?usp=sharing) 
