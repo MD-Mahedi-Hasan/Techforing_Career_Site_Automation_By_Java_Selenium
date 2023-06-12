@@ -36,3 +36,13 @@
 allure generate allure-results --clean -o allure-report
 allure serve allure-results
  ```
+ **Below is my overall report:** </br>
+
+![Capture](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/assets/94475321/a08e6884-c8fc-48ac-813e-964468a1cc2e)  </br>
+
+![allure 1](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/assets/94475321/9a5336f9-e356-4f21-b640-d6a4801f3f03)  </br>
+
+![Allure 2](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/assets/94475321/44259d98-2866-4b4a-84fa-d9061127d806) </br>
+
+![Allure 3](https://github.com/MD-Mahedi-Hasan/Techforing_Career_Site_Automation_By_Java_Selenium/assets/94475321/8cfca6dc-c4c0-4ea0-a136-f41d3e989112) </br>
+
